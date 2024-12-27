@@ -25,3 +25,8 @@ Ver 1.1
   - echo       :says a message
   - ------------------------------------------BIG UPDATE---------------------------------------
   - It more like cmd so not mkdir and dir_name its mkdir dir_name!
+
+Ver 1.2
+  - added settings : change dev settings
+  - added install modules
+  - fixed 39 bugs
