@@ -19,3 +19,8 @@ Ver 1.0
   - run        : Run an executable or batch file
   - q          : Quit the command prompt
   - top        : Show top-like command for processes, CPU, and memory
+Ver 1.1
+  - robloxian  :insatll modules
+  - echo       :says a message
+  - ------------------------------------------BIG UPDATE---------------------------------------
+  - It more like cmd so not mkdir and dir_name its mkdir dir_name!
